@@ -3,6 +3,6 @@
 
 - original data
 
-- preprocessed data
+- preprocessed data : filtered with common words 
 
-- preprocessed data2 => only best answers 
+- preprocessed data2 : only best answers 
