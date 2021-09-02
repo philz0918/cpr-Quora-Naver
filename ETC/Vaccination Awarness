@@ -1,0 +1,119 @@
+Vaccination Awarness 
+
+2021/06/15
+
+Time/period - Vaccine Authorization
+Crawling Coding - Naver 지식인 
+Social science medicine
+Journal of biomedical informatics
+네이버 지식인 Vs Yahoo
+
+
+2021/06/21
+
+Naver Crawling start -> yahoo -> Quora/Reddit
+
+Misinformation spreading 
+
+pg 46
+
+
+2021/06/28 
+
+1. Quora vs Reddit
+
+	- Quora : Based on questioin and answer
+	- Reddit : reddit, r/subreddit, ex) r/vaccine
+
+2. Quora 
+	
+	- 2903 questions
+	- US vaccin authorization date : Dec. 11. 2020 (Pfizer)
+	- Need Answer as well ? - best answer/view?
+	- Filter out with "Covd-19, corona virus..."
+
+	- Vaccination rates
+
+3. Process
+
+	- Preliminary Analysis - 2 weeks period  
+	- Keyword Analysis (?) - require theorotical reason
+	- Sentiment Analysis 
+	- Word2Vec Analysis(cosine similarities)
+
+
+Tech : multiproessing Pool...? parallel processing
+	   snake make?
+
+http://www.samsunghospital.com/m/reservation/common/doctorProfile.do?DR_NO=7
+
+
+
+2020-6-27
+
+-- 2 weeks 
+
+
+2020-12-19 
+
+-- 2 weeks 
+
+tag frequency
+
+
+trend analysis - per 2 weeks
+- title , tag, answer
+
+tag column move next to the question 
+
+
+
+
+2021/07/20
+
+1. Add paper that descript Word2Vec
+
+2. Quora advanced search 
+
+
+
+2021/08/31
+
+1. Analysis method
+
+ Suggestion : Doc2Vec  , add paragraph embedding 
+ 			  Doc2Vec vs BERT
+
+ 			  What is better, which dataset can be used for pretraining 
+
+ 			  Since it's unsupervised learning, 
+ 			  Require transfer learning
+
+ 			Network analysis about Question ?
+
+ 			Divide Question 
+
+ 			What to want to know?
+
+ 			Finding similar word with "Vaccine"
+
+
+ 			Simliar means semantically close each other or on thee "context"
+
+
+
+ 1. Lancet 
+
+ - 1 : Sentimental Analysis and trend tracking => find threshold comparing with vaccination rate
+ 
+ - 2 : Word2Vec : similar word with Vaccine and some keyword and Visualize
+
+ - 3 : 
+
+
+
+ 2. Naver vs Quora 
+
+ - 1 : Based on Question, best answers and top rank answers
+ - 2 : Organize qustions, categorize questions //how to categorize qustions ? - topic modeling?
+ - 3 :
