@@ -117,3 +117,44 @@ tag column move next to the question
  - 1 : Based on Question, best answers and top rank answers
  - 2 : Organize qustions, categorize questions //how to categorize qustions ? - topic modeling?
  - 3 :
+
+
+2021/09/13
+
+
+1. Quora - user distribution us and india
+2. comparing with top2vec
+
+
+2021/09/21
+
+20 years time series
+Vaccine Hesitancy 
+- "refuse", word relating hesitancy
+- sentimental analysis
+- plots with vaccination rates , number of questions, number of answers ...
+
+naver quora 
+- top2vec result/ LDA result - mix and match 
+- depends on topics, analyze answers( top answer for quota, best answer for naver)
+- Compare depend on topics  
+
+2021/09/26
+
+- taxonomy
+
+2021/10/26
+
+Time series 
+- Separate in three time stamp 
+- Frequency of words, Similar word in that time stamp 
+- Similar word with "Vaccine"
+ 
+Naver vs Quora
+- Clean data 
+- 1. 0 -> only korea and fix some word
+- 2. delete value under 0 
+- 3. delete
+- 4. Safety = Effect same categorizing 
+- Best answers why? / 
+- category - keyword 
